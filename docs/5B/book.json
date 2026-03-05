@@ -1,0 +1,103 @@
+{
+  "bookName": "译林英语",
+  "bookLevel": "第五册下",
+  "bookCover": "cover.jpeg",
+  "units": [
+    {
+      "title": "Unit 1 Cartoon Time",
+      "filename": "Unit 1 Cartoon Time"
+    },
+    {
+      "title": "Unit 1 Story Time",
+      "filename": "Unit 1 Story Time"
+    },
+    {
+      "title": "Unit 1 Word Lists",
+      "filename": "Unit 1 Word Lists"
+    },
+    {
+      "title": "Unit 2 Cartoon Time",
+      "filename": "Unit 2 Cartoon Time"
+    },
+    {
+      "title": "Unit 2 Story Time",
+      "filename": "Unit 2 Story Time"
+    },
+    {
+      "title": "Unit 2 Word Lists",
+      "filename": "Unit 2 Word Lists"
+    },
+    {
+      "title": "Unit 3 Cartoon Time",
+      "filename": "Unit 3 Cartoon Time"
+    },
+    {
+      "title": "Unit 3 Story Time",
+      "filename": "Unit 3 Story Time"
+    },
+    {
+      "title": "Unit 3 Word Lists",
+      "filename": "Unit 3 Word Lists"
+    },
+    {
+      "title": "Unit 4 Cartoon Time",
+      "filename": "Unit 4 Cartoon Time"
+    },
+    {
+      "title": "Unit 4 Story Time",
+      "filename": "Unit 4 Story Time"
+    },
+    {
+      "title": "Unit 4 Word Lists",
+      "filename": "Unit 4 Word Lists"
+    },
+    {
+      "title": "Unit 5 Cartoon Time",
+      "filename": "Unit 5 Cartoon Time"
+    },
+    {
+      "title": "Unit 5 Story Time",
+      "filename": "Unit 5 Story Time"
+    },
+    {
+      "title": "Unit 5 Word Lists",
+      "filename": "Unit 5 Word Lists"
+    },
+    {
+      "title": "Unit 6 Cartoon Time",
+      "filename": "Unit 6 Cartoon Time"
+    },
+    {
+      "title": "Unit 6 Story Time",
+      "filename": "Unit 6 Story Time"
+    },
+    {
+      "title": "Unit 6 Word Lists",
+      "filename": "Unit 6 Word Lists"
+    },
+    {
+      "title": "Unit 7 Cartoon Time",
+      "filename": "Unit 7 Cartoon Time"
+    },
+    {
+      "title": "Unit 7 Story Time",
+      "filename": "Unit 7 Story Time"
+    },
+    {
+      "title": "Unit 7 Word Lists",
+      "filename": "Unit 7 Word Lists"
+    },
+    {
+      "title": "Unit 8 Cartoon Time",
+      "filename": "Unit 8 Cartoon Time"
+    },
+    {
+      "title": "Unit 8 Story Time",
+      "filename": "Unit 8 Story Time"
+    },
+    {
+      "title": "Unit 8 Word Lists",
+      "filename": "Unit 8 Word Lists"
+    }
+  ]
+}
